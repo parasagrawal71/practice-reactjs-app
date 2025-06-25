@@ -13,6 +13,8 @@ function App() {
             padding: "1rem",
             display: "flex",
             gap: 20,
+            backgroundColor: "#ccc",
+            boxShadow: "0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)",
           }}
         >
           <Link to="/">Home</Link>
